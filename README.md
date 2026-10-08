@@ -1,5 +1,5 @@
 # Data-Analysis-Projects-from-Great-Learning-Texas-McCombs-School-of-Business
-These two project were data analysis projects from Great Learning.  Great Learning partnered with Texas McCombs School of Business and Microsoft to teach data analysis using Excel, SQL, Python, and Microsoft's PowerBI. <br><br>
+These two project were data analysis projects from Great Learning.  Great Learning partnered with Texas McCombs School of Business and Microsoft to teach data analysis using Excel, SQL, Python, and Microsoft's PowerBI.  This was from a Data Analytics Essentials and PL-300 Microsoft PowerBI Data Analytic certification course that lasted about 6 months.
 ### New Wheels Project
 The New Wheels project focused primarily on using SQL to sort, filter, clean the data, and create aggregations to analyze the data and create a report for stakeholders that can be used to make actionable decisions.
 ### Movie Lens Project
